@@ -1,0 +1,2 @@
+#!/bin/basah
+chown --from=guillaaume betty hello
